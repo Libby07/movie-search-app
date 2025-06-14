@@ -43,3 +43,8 @@ Movie title
 Release year
 
 Optional: Hover to see overview
+
+##ADDITION##
+
+Rating a collection of all the movies and TV shows you've watched
+This will make a recommendation list based on what you like and dislike
